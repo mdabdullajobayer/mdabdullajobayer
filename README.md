@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Jobayer! Nice to meet you!
 I am a Full-stack Web Developer. I love workign with Laravel & ReactJs, apart from this I work with JavaScript, React.js, Nuxt.js, Laravel, REST API, MySQL Git & Github. You can see what I am currently up to on mdjovayer.epizy.com.
 
-![](https://komarev.com/ghpvc/?username=mdjovayer)
+![1000](https://komarev.com/ghpvc/?username=mdjovayer)
 
 ## 🎮 Check out some stuff about me
  - 🔭 I’m currently working on Inly Digital
