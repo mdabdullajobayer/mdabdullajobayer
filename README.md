@@ -10,4 +10,5 @@ I am a Full-stack Web Developer. I love workign with Laravel & ReactJs, apart fr
 ## 📬 Get in touch
 - Personal Portfolio: mdjovayer.epizy.com
 - Facebook: [Facebook Profile](https://www.facebook.com/mdabdullahjovayer)
+- linkedin [linkedin Profile](https://www.linkedin.com/in/md-abdullah-jovayer-643208243)
 - Mail: mdabdullajovayer@gmail.com
