@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm I am Jobayer! Nice to meet you!</h1>
-<h3 align="center">I am a Full-stack Web Developer. I love workign with Laravel & ReactJs, apart from this I work with JavaScript, React.js, Nuxt.js, Laravel, REST API, MySQL Git & Github.</h3>
+<h3 align="center">I am a Full-stack Web Developer. I love workign with Laravel & ReactJs, apart from this I work with JavaScript, React.js, Next.js, Laravel, REST API, MySQL Git & Github.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjovayer&label=Profile%20views&color=0e75b6&style=flat" alt="mdjovayer" /> </p>
 
