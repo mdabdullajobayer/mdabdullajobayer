@@ -4,8 +4,8 @@
 
 
 ## 🎮 Check out some stuff about me
- - 🔭 I’m currently working at Web Developer on Distri Multi-Media Ltd.
- - 🌱 I’m currently learning about Django & Laravel with Vue
+ - 🔭 I’m currently working at Web Developer.
+ - 🌱 I’m currently learning about Laravel
  - 👯 I share my journey through youtube videso and Online Live Learning.
  - ⚡ Fun fact: My perfect day would start with excersize and end with positive affirmation.
 
