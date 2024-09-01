@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm I am MD.Abdulla Jobayer! Nice to meet you!</h1>
-<h3 align="center">I am a Full-stack Web Developer. I love workign with Laravel & ReactJs, apart from this I work with JavaScript, React.js, Laravel, REST API, MySQL Git & Github.</h3>
+<h3 align="center">I am a Full-stack Web Developer. I love workign with Laravel, apart from this I work with JavaScript, Laravel, REST API, MySQL Git & Github.</h3>
 
 
 
