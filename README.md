@@ -32,9 +32,3 @@ Welcome to my GitHub profile! I'm an experienced Laravel developer passionate ab
 - **Email:** [mdabdullajovayer@gmail.com](mailto:mdabdullajovayer@gmail.com)
 - **LinkedIn:** [mdabdullahjobayer](https://www.linkedin.com/in/mdabdullahjobayer)
 - **Location:** Dhaka, Bangladesh
-
----
-
-### 🏆 **GitHub Contributions**
-
-![MD Abdulla Jobayer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdabdullajobayer&theme=highcontrast)
