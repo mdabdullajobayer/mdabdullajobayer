@@ -1,6 +1,6 @@
 # 👋 Hello, I'm MD Abdulla Jobayer! Nice to meet you!
 
-### Software Developer | Laravel & React
+### Software Developer | Laravel & Vue
 
 Welcome to my GitHub profile! I'm an experienced Laravel developer passionate about building web applications with a focus on user experience and technical excellence. I specialize in PHP, Laravel, JavaScript, and modern web development technologies.
 
