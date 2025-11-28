@@ -78,6 +78,12 @@ I prioritize writing **clean, scalable, and secure code** following industry bes
 
 ---
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdullajobayer&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdullajobayer" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdabdullajobayer" alt="mdabdullajobayer" /></a> 
+</p>
+
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
